@@ -1,0 +1,40 @@
+
+
+.wrapper {
+    width: 960px;
+    height: 120px;
+    max-width: 90%;
+    margin: 0 auto;
+    background-color: beige;
+}
+
+.box {
+    width: 20%;
+    height: 100px;
+    background-color: pink;
+    margin: 0px;
+    border: solid red 5px;
+    box-sizing: border-box;
+    
+    float: left;
+}
+
+.container {
+    
+    background-color: burlywood;
+    
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin: 10px;
+    float: left;
+}
+
+.clear {
+
+    clear: both;
+
+}
